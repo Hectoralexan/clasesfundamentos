@@ -1,0 +1,2 @@
+# clasesfundamentos
+clase de python 
